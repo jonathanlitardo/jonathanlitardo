@@ -1,7 +1,8 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/assets/banner.png" alt="Jonathan Litardo Banner" width="100%" />
+  <img src="./assets/banner-github.png" alt="Jonathan Litardo Banner" width="100%">
 </p>
+
 
 <h1 align="center">👋 Hi, I’m <span style="color:#3b82f6">Jonathan Litardo</span></h1>
 <h3 align="center">Cybersecurity Engineer • AI Security • Red Team • Cloud Defense</h3>
