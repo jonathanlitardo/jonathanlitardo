@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="./assets/banner-github.png" alt="Jonathan Litardo Banner" width="100%">
+  <img src="./assets/Cloud-banner.jpg" alt="Jonathan Litardo Banner" width="100%">
 </p>
 
 
