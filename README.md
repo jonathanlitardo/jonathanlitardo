@@ -10,7 +10,7 @@
 ---
 
 ### 🧠 About Me
-I’m a **Cybersecurity Engineer** with a passion for securing modern infrastructures and AI systems.  
+I’m a **Cybersecurity Student** with a passion for securing modern infrastructures and AI systems.  
 My work bridges **offensive security**, **cloud defense**, and **machine learning security**, ensuring systems stay robust against evolving digital threats.
 
 💡 I focus on:
@@ -55,8 +55,6 @@ My work bridges **offensive security**, **cloud defense**, and **machine learnin
 - 🛡️ [AI Threat Detector](#) – Detects adversarial patterns in ML pipelines  
 - ☁️ [Cloud Defense Dashboard](#) – Centralized visibility for cloud security alerts  
 - 🔍 [Red Team Recon Toolkit](#) – Automated reconnaissance and vulnerability scanner  
-
-*(Add links once your repos are ready)*
 
 ---
 
